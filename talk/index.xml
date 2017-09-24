@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Posters on Daniel Guterding</title>
+    <link>https://danielguterding.github.io/talk/</link>
+    <description>Recent content in Talks &amp; Posters on Daniel Guterding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daniel Guterding</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Individual molecule model of kappa-type organic charge transfer salts</title>
+      <link>https://danielguterding.github.io/talk/gordonkappaet/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/gordonkappaet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual molecule description of kappa-type organic charge transfer salts</title>
+      <link>https://danielguterding.github.io/talk/nrljune2016/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/nrljune2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topologically non-trivial electronic and magnetic states in doped copper kagome lattices</title>
+      <link>https://danielguterding.github.io/talk/topologyaps2016/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/topologyaps2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topologically non-trivial electronic and magnetic states in doped copper kagome lattices</title>
+      <link>https://danielguterding.github.io/talk/topologynovember2015/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/topologynovember2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic modelling of exotic properties in frustrated systems: triangular and kagome lattices</title>
+      <link>https://danielguterding.github.io/talk/kagomesfb/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/kagomesfb/</guid>
+      <description>&lt;p&gt;Project Report B2/B13 of DFG SFB/TR49&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Origin of superconductivity and nature of correlations in extremely hole-doped iron-based superconductors under pressure</title>
+      <link>https://danielguterding.github.io/talk/holedopedfebsdonostia/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/holedopedfebsdonostia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superconducting order parameters in the multi-orbital Hubbard model from resummed perturbation theory</title>
+      <link>https://danielguterding.github.io/talk/multiorbitalhubbard/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/multiorbitalhubbard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superconductivity beyond the dimer model in 2D organic charge transfer salts</title>
+      <link>https://danielguterding.github.io/talk/organic2d/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/organic2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doping dependence of superconducting transition temperatures in alkali metal/ammonia intercalated FeSe</title>
+      <link>https://danielguterding.github.io/talk/lithiumaps/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/lithiumaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doping dependence of superconducting transition temperatures in alkali metal/ammonia intercalated FeSe</title>
+      <link>https://danielguterding.github.io/talk/lithiumseminar/</link>
+      <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/lithiumseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient implementation of the RPA spin-fluctuation formalism for superconductivity</title>
+      <link>https://danielguterding.github.io/talk/rpaimplementation/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/rpaimplementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Haas-van Alphen effect and effective masses in KFe2As2 from LDA&#43;DMFT</title>
+      <link>https://danielguterding.github.io/talk/dpgspring2014/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/dpgspring2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Haas-van Alphen frequencies calculated from band structure data</title>
+      <link>https://danielguterding.github.io/talk/dhvacorrel13/</link>
+      <pubDate>Sat, 24 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/dhvacorrel13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of de Haas-van Alphen Frequencies from Electronic Structure Calculations</title>
+      <link>https://danielguterding.github.io/talk/dehaasseminar/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/dehaasseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organic Superconductors</title>
+      <link>https://danielguterding.github.io/talk/organicsgerman/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/organicsgerman/</guid>
+      <description>&lt;p&gt;Talk is in German language.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
