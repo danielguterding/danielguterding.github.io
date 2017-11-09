@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration</title>
+      <link>https://danielguterding.github.io/publication/019gputetrahedron/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/publication/019gputetrahedron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>18. The Heston Stochastic Volatility Model with Piecewise Constant Parameters - Efficient Calibration and Pricing of Window Barrier Options</title>
       <link>https://danielguterding.github.io/publication/018hestonpiecewise/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
@@ -958,15 +967,6 @@ Here&#39;s some important information...
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>10. Ab initio determination of spin Hamiltonians with anisotropic exchange interactions: the case of the pyrochlore ferromagnet Lu2V2O7</title>
-      <link>https://danielguterding.github.io/publication/010lu2v2o7/</link>
-      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielguterding.github.io/publication/010lu2v2o7/</guid>
-      <description></description>
     </item>
     
   </channel>

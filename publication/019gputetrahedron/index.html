@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://danielguterding.github.io/publication/018hestonpiecewise/">
+  <link rel="canonical" href="https://danielguterding.github.io/publication/019gputetrahedron/">
 
   
 
-  <title>18. The Heston Stochastic Volatility Model with Piecewise Constant Parameters - Efficient Calibration and Pricing of Window Barrier Options | Daniel Guterding</title>
+  <title>19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration | Daniel Guterding</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -155,10 +155,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">18. The Heston Stochastic Volatility Model with Piecewise Constant Parameters - Efficient Calibration and Pricing of Window Barrier Options</h1>
+    <h1 itemprop="name">19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration</h1>
     <span class="pub-authors" itemprop="author">
       
-      Daniel Guterding, Wolfram Boenkost
+      Daniel Guterding, Harald O. Jeschke
       
     </span>
     <span class="pull-right">
@@ -167,35 +167,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f018hestonpiecewise%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f019gputetrahedron%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=18.%20The%20Heston%20Stochastic%20Volatility%20Model%20with%20Piecewise%20Constant%20Parameters%20-%20Efficient%20Calibration%20and%20Pricing%20of%20Window%20Barrier%20Options&amp;url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f018hestonpiecewise%2f"
+         href="https://twitter.com/intent/tweet?text=19.%20An%20efficient%20GPU%20algorithm%20for%20tetrahedron-based%20Brillouin-zone%20integration&amp;url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f019gputetrahedron%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f018hestonpiecewise%2f&amp;title=18.%20The%20Heston%20Stochastic%20Volatility%20Model%20with%20Piecewise%20Constant%20Parameters%20-%20Efficient%20Calibration%20and%20Pricing%20of%20Window%20Barrier%20Options"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f019gputetrahedron%2f&amp;title=19.%20An%20efficient%20GPU%20algorithm%20for%20tetrahedron-based%20Brillouin-zone%20integration"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f018hestonpiecewise%2f&amp;title=18.%20The%20Heston%20Stochastic%20Volatility%20Model%20with%20Piecewise%20Constant%20Parameters%20-%20Efficient%20Calibration%20and%20Pricing%20of%20Window%20Barrier%20Options"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f019gputetrahedron%2f&amp;title=19.%20An%20efficient%20GPU%20algorithm%20for%20tetrahedron-based%20Brillouin-zone%20integration"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=18.%20The%20Heston%20Stochastic%20Volatility%20Model%20with%20Piecewise%20Constant%20Parameters%20-%20Efficient%20Calibration%20and%20Pricing%20of%20Window%20Barrier%20Options&amp;body=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f018hestonpiecewise%2f">
+         href="mailto:?subject=19.%20An%20efficient%20GPU%20algorithm%20for%20tetrahedron-based%20Brillouin-zone%20integration&amp;body=https%3a%2f%2fdanielguterding.github.io%2fpublication%2f019gputetrahedron%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -212,7 +212,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">We present a simple and numerically efficient approach to the calibration of the Heston stochastic volatility model with piecewise constant parameters. Extending the original ansatz for the characteristic function, proposed in the seminal paper by Heston, to the case of piecewise constant parameters, we show that the resulting set of ordinary differential equations can still be integrated semi-analytically. Our numerical scheme is based on the calculation of the characteristic function using Gauss-Kronrod quadrature, additionally supplying a Black-Scholes control variate to stabilize the numerical integrals. We apply our method to the problem of calibration of the Heston model with piecewise constant parameters to the foreign exchange (FX) options market. Finally, we demonstrate cases in which window barrier option prices calculated using the Heston model with piecewise constant parameters are consistent with the market, while those calculated with a plain Heston model are not.</p>
+  <p class="pub-abstract" itemprop="text">We report an efficient algorithm for calculating momentum-space integrals in solid state systems on modern graphics processing units (GPUs). We extend the tetrahedron method by Blöchl et al. to the more general case of the integration of a momentum as well as energy dependent quantity and implement the algorithm based on the CUDA programming framework. We test this method by applying it to a simple example, the calculation of the orbital-resolved density of states. We benchmark our code on the problem of calculating the orbital-resolved density of states in an iron-based superconductor and discuss the design choices made in the implementation. Our algorithm delivers large speedups of up to a factor ∼165 also for moderately sized workloads compared to standard algorithms executed on central processing units (CPUs).</p>
 
   
   <div class="row">
@@ -239,7 +239,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">SSRN 3005953</div>
+        <div class="col-xs-12 col-sm-9">arXiv 1710.10789</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -252,7 +252,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          July, 2017
+          October, 2017
         </div>
       </div>
     </div>
@@ -278,7 +278,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://ssrn.com/abstract=3005953">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1710.10789">
   Preprint
 </a>
 
@@ -301,13 +301,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://danielguterding.github.io/publication/017fesestretching/"><span
-      aria-hidden="true">&larr;</span> 17. Basic electronic properties of iron selenide under variation of structural parameters</a></li>
+    <li class="previous"><a href="https://danielguterding.github.io/publication/018hestonpiecewise/"><span
+      aria-hidden="true">&larr;</span> 18. The Heston Stochastic Volatility Model with Piecewise Constant Parameters - Efficient Calibration and Pricing of Window Barrier Options</a></li>
     
 
-    
-    <li class="next"><a href="https://danielguterding.github.io/publication/019gputetrahedron/">19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
