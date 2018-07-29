@@ -109,6 +109,18 @@
         
 
         <li class="nav-item">
+          <a href="/#teaching" data-target="#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
           <a href="/#software" data-target="#software">
             
             <span>Software</span>
@@ -121,9 +133,9 @@
         
 
         <li class="nav-item">
-          <a href="/#teaching" data-target="#teaching">
+          <a href="/#referee" data-target="#referee">
             
-            <span>Teaching</span>
+            <span>Community service</span>
           </a>
         </li>
 
@@ -226,7 +238,7 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>Daniel Guterding is a <a href="https://en.wikipedia.org/wiki/Quantitative_analyst" target="_blank">Quantitative Analyst</a> at <a href="http://www.eurexchange.com" target="_blank">Eurex</a>, the largest European futures and options market. On his previous job at <a href="https://l-p-a.com" target="_blank">Lucht Probst Associates</a> he worked on computational models for <a href="https://en.wikipedia.org/wiki/Derivative_(finance)" target="_blank">derivatives pricing</a> in the <a href="https://en.wikipedia.org/wiki/Foreign_exchange_market" target="_blank">foreign exchange (FX) market</a> and various other software projects.</p>
+<p>Daniel Guterding is a <a href="https://en.wikipedia.org/wiki/Quantitative_analyst" target="_blank">Quantitative Analyst</a> at <a href="http://www.eurexchange.com" target="_blank">Eurex</a>, the largest European <a href="https://en.wikipedia.org/wiki/Futures_contract" target="_blank">futures</a> and <a href="https://en.wikipedia.org/wiki/Derivative_(finance)" target="_blank">options</a> market, where he analyses high-frequency trading data. On previous industry jobs, he worked on computational models for <a href="https://en.wikipedia.org/wiki/Derivative_(finance)" target="_blank">derivatives pricing</a> in the <a href="https://en.wikipedia.org/wiki/Foreign_exchange_market" target="_blank">foreign exchange (FX) market</a> and other software projects.</p>
 
 <p>In academia, he completed a <a href="http://publikationen.ub.uni-frankfurt.de/files/44175/DGuterdingPhD.pdf" target="_blank">PhD thesis</a> in theoretical physics on the subject of microscopic models for <a href="http://en.wikipedia.org/wiki/Organic_superconductor" target="_blank">organic</a> and <a href="http://en.wikipedia.org/wiki/Iron-based_superconductor" target="_blank">iron-based superconductors</a>. Furthermore, he conducted research on <a href="https://en.wikipedia.org/wiki/Trihexagonal_tiling" target="_blank">Kagome-lattice</a> materials for <a href="https://en.wikipedia.org/wiki/Quantum_computing" target="_blank">Quantum computing</a>.</p>
 
@@ -526,37 +538,6 @@ Journal: <a href="http://dx.doi.org/10.1103/PhysRevB.86.220511" target="_blank">
 
   
   
-  <section id="software" class="home-section">
-    <div class="container">
-      
-
-
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Software</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    <p>I maintain an account on <a href="https://github.com/danielguterding" target="_blank">Github</a> to which I upload research codes that I deem useful for the community. These codes include:</p>
-
-<p><a href="https://github.com/danielguterding/ctaux" target="_blank">ctaux</a> is a continuous-time auxiliary field Monte Carlo solver for quantum impurity models. It uses a representation of the Green's function in terms of Legendre polynomials.</p>
-
-<p><a href="http://github.com/danielguterding/dhva" target="_blank">dhva</a> is a code for calculating de Haas-van Alphen frequencies and electronic band masses from XCrySDen band-grid files. It works very similar to SKEAF by Rourke and Julian, but it is written in object-oriented C++ and offers different interpolation schemes. The basic approach is to construct a super cell of band energies, which is then cut into one k-point thick slices. On each of these slices the Fermi surface is detected and therefore de Haas-van Alphen orbits can be evaluated. Arbitrary shapes of the reciprocal unit cell are supported.</p>
-
-<p><a href="https://github.com/danielguterding/hcmf" target="_blank">hcmf</a> is a cluster mean-field solver for the Heisenberg model. The implementation uses Python for organizing the workflow and evaluating observables. The computationally expensive parts are implemented in C++ to achieve maximum performance.</p>
-
-<p><a href="https://github.com/danielguterding/pywien2k" target="_blank">pywien2k</a> is a collection of tools for working with the Wien2k density functional theory code.</p>
-
-<p><a href="https://github.com/danielguterding/vsmd" target="_blank">vsmd</a> is a very simple molecular dynamics code. It is able to simulate noble gas crystals and liquids with finite temperature and hydrostatic pressure using classical potentials. It was created as a simplified re-write of the molecular dynamics code I made for my bachelor thesis on molecular dynamics. Its scientific use is certainly limited, but due to its relative simplicity anyone trying to get a grasp of the molecular dynamics method could find this useful.</p>
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
   <section id="teaching" class="home-section">
     <div class="container">
       
@@ -627,6 +608,70 @@ Lecturer: Jens Müller</p>
 
 <p>Theoretical Physics 1: Classical Mechanics<br />
 Lecturer: Joachim Maruhn</p>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  <section id="software" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Software</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <p>I maintain an account on <a href="https://github.com/danielguterding" target="_blank">Github</a> to which I upload research codes that I deem useful for the community. These codes include:</p>
+
+<p><a href="https://github.com/danielguterding/ctaux" target="_blank">ctaux</a> is a continuous-time auxiliary field Monte Carlo solver for quantum impurity models. It uses a representation of the Green's function in terms of Legendre polynomials.</p>
+
+<p><a href="http://github.com/danielguterding/dhva" target="_blank">dhva</a> is a code for calculating de Haas-van Alphen frequencies and electronic band masses from XCrySDen band-grid files. It works very similar to SKEAF by Rourke and Julian, but it is written in object-oriented C++ and offers different interpolation schemes. The basic approach is to construct a super cell of band energies, which is then cut into one k-point thick slices. On each of these slices the Fermi surface is detected and therefore de Haas-van Alphen orbits can be evaluated. Arbitrary shapes of the reciprocal unit cell are supported.</p>
+
+<p><a href="https://github.com/danielguterding/hcmf" target="_blank">hcmf</a> is a cluster mean-field solver for the Heisenberg model. The implementation uses Python for organizing the workflow and evaluating observables. The computationally expensive parts are implemented in C++ to achieve maximum performance.</p>
+
+<p><a href="https://github.com/danielguterding/pywien2k" target="_blank">pywien2k</a> is a collection of tools for working with the Wien2k density functional theory code.</p>
+
+<p><a href="https://github.com/danielguterding/vsmd" target="_blank">vsmd</a> is a very simple molecular dynamics code. It is able to simulate noble gas crystals and liquids with finite temperature and hydrostatic pressure using classical potentials. It was created as a simplified re-write of the molecular dynamics code I made for my bachelor thesis on molecular dynamics. Its scientific use is certainly limited, but due to its relative simplicity anyone trying to get a grasp of the molecular dynamics method could find this useful.</p>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  <section id="referee" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Service to the scientific community</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <p>I serve as a referee for a broad variety of scientific journals in the field of physics, which include:</p>
+
+<ul>
+<li><a href="https://prl.aps.org" target="_blank">Physical Review Letters</a></li>
+<li><a href="https://prb.aps.org" target="_blank">Physical Review B (Condensed Matter and Materials Physics)</a></li>
+<li><a href="https://pubs.acs.org/journal/nalefd" target="_blank">Nano Letters</a></li>
+</ul>
+
+<p>In the broader field of finance and economy I also serve as a referee for various journals, including the following:</p>
+
+<ul>
+<li><a href="https://www.journals.elsevier.com/european-journal-of-operational-research" target="_blank">European Journal of Operations Research</a></li>
+</ul>
 
   </div>
 </div>
