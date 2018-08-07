@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniel Guterding</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://danielguterding.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Individual molecule model of kappa-type organic charge transfer salts</title>
@@ -52,8 +54,7 @@
       <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://danielguterding.github.io/talk/kagomesfb/</guid>
-      <description>&lt;p&gt;Project Report B2/B13 of DFG SFB/TR49&lt;/p&gt;
-</description>
+      <description>Project Report B2/B13 of DFG SFB/TR49</description>
     </item>
     
     <item>
@@ -143,8 +144,16 @@
       <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://danielguterding.github.io/talk/organicsgerman/</guid>
-      <description>&lt;p&gt;Talk is in German language.&lt;/p&gt;
-</description>
+      <description>Talk is in German language.</description>
+    </item>
+    
+    <item>
+      <title>The Quantum Spin Hall Effect in HgTe/CdTe Quantum Wells</title>
+      <link>https://danielguterding.github.io/talk/quantumspinhallstudienstiftung/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/quantumspinhallstudienstiftung/</guid>
+      <description>Talk is in German language.</description>
     </item>
     
   </channel>

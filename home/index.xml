@@ -8,7 +8,97 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniel Guterding</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://danielguterding.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://danielguterding.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/about/</guid>
+      <description>Biography Daniel Guterding is a Quantitative Analyst at Eurex, the largest European futures and options market, where he analyses derivatives trading data. On previous industry jobs, he worked on computational models for derivatives pricing in the foreign exchange (FX) market and other software projects.
+In academia, he completed a PhD thesis in theoretical physics on the subject of microscopic models for organic and iron-based superconductors. Furthermore, he conducted research on Kagome-lattice materials for Quantum computing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://danielguterding.github.io/home/publications_list/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/publications_list/</guid>
+      <description>20. Two-dome superconductivity in FeS induced by a Lifshitz transition
+Authors: Makoto Shimizu, Nayuta Takemori, Daniel Guterding, and Harald O. Jeschke
+Preprint: arXiv
+19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration
+Authors: Daniel Guterding and Harald O. Jeschke
+Preprint: arXiv
+Journal: Comput. Phys. Commun. 231, 114 (2018)
+18. The Heston stochastic volatility model with piecewise constant parameters — efficient calibration and pricing of window barrier options
+Authors: Daniel Guterding and Wolfram Boenkost</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Posters</title>
+      <link>https://danielguterding.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://danielguterding.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/teaching/</guid>
+      <description>At Goethe-Universität Frankfurt am Main I served as a tutor for exercise courses of various lecturers.
+Summer 2016 Computational Methods in Solid State Theory
+Lecturer: Harald. O. Jeschke
+Course Material
+Winter 2015 Introduction to Solid State Theory
+Lecturer: Roser Valenti
+Summer 2015 Computational Methods in Solid State Theory
+Lecturer: Harald. O. Jeschke
+Course Material
+Winter 2014 Theoretical Physics 3: Electrodynamics
+Lecturer: Peter Kopietz
+Introduction to Solid State Theory
+Lecturer: Roser Valenti</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://danielguterding.github.io/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/software/</guid>
+      <description>I maintain an account on Github to which I upload research codes that I deem useful for the community. These codes include:
+ctaux is a continuous-time auxiliary field Monte Carlo solver for quantum impurity models. It uses a representation of the Green&#39;s function in terms of Legendre polynomials.
+dhva is a code for calculating de Haas-van Alphen frequencies and electronic band masses from XCrySDen band-grid files. It works very similar to SKEAF by Rourke and Julian, but it is written in object-oriented C++ and offers different interpolation schemes.</description>
+    </item>
+    
+    <item>
+      <title>Service to the scientific community</title>
+      <link>https://danielguterding.github.io/home/referee/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/referee/</guid>
+      <description>I serve as a referee for a broad variety of scientific journals in the field of physics, which include:
+ Physical Review Letters Physical Review B (Condensed Matter and Materials Physics) Nano Letters  In the broader field of finance and economy I also serve as a referee for various journals, including the following:
+ European Journal of Operational Research Journal of Computational and Applied Mathematics  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://danielguterding.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

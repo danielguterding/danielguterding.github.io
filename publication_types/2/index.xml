@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniel Guterding</copyright>
     <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://danielguterding.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration</title>
@@ -142,6 +144,42 @@
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://danielguterding.github.io/publication/005lithiumintercalate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4. Correlation effects in the tetragonal and collapsed tetragonal phase of CaFe2As2</title>
+      <link>https://danielguterding.github.io/publication/004cafe2as2correlation/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/publication/004cafe2as2correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3. Electronic structure and de Haas-van Alphen frequencies in KFe2As2 within LDA&#43;DMFT</title>
+      <link>https://danielguterding.github.io/publication/003kfe2as2ldadmft/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/publication/003kfe2as2ldadmft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2. Field-induced magnetic transitions in Ca10(Pt3As8)((Fe1-xPtx)2As2)5 compounds</title>
+      <link>https://danielguterding.github.io/publication/002captcompound/</link>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/publication/002captcompound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1. Hydrostatic-pressure tuning of magnetic, nonmagnetic and superconducting states in annealed Ca(Fe1−xCox)2As2</title>
+      <link>https://danielguterding.github.io/publication/001hydrostaticpressuretuning/</link>
+      <pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/publication/001hydrostaticpressuretuning/</guid>
       <description></description>
     </item>
     
