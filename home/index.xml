@@ -40,15 +40,6 @@ Journal: Comput. Phys. Commun. 231, 114 (2018)
     </item>
     
     <item>
-      <title>Talks &amp; Posters</title>
-      <link>https://danielguterding.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielguterding.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>https://danielguterding.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -77,7 +68,16 @@ Contents:
       <guid>https://danielguterding.github.io/home/software/</guid>
       <description>I maintain an account on Github to which I upload research codes that I deem useful for the community. These codes include:
 ctaux is a continuous-time auxiliary field Monte Carlo solver for quantum impurity models. It uses a representation of the Green&#39;s function in terms of Legendre polynomials.
-dhva is a code for calculating de Haas-van Alphen frequencies and electronic band masses from XCrySDen band-grid files. It works very similar to SKEAF by Rourke and Julian, but it is written in object-oriented C++ and offers different interpolation schemes.</description>
+dhva is a code for calculating de Haas-van Alphen frequencies and electronic band masses from XCrySDen band-grid files. It works very similar to SKEAF by P.</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Posters</title>
+      <link>https://danielguterding.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/home/talks/</guid>
+      <description></description>
     </item>
     
     <item>
