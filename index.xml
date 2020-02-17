@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From Principal Component Analysis to Deep Learning with De-Noising Variational Auto-Encoders</title>
+      <link>https://danielguterding.github.io/talk/pcafeb2020/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/pcafeb2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>19. An efficient GPU algorithm for tetrahedron-based Brillouin-zone integration</title>
       <link>https://danielguterding.github.io/publication/019gputetrahedron/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
@@ -190,15 +199,6 @@
       <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://danielguterding.github.io/talk/topologyaps2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topologically non-trivial electronic and magnetic states in doped copper kagome lattices</title>
-      <link>https://danielguterding.github.io/talk/topologynovember2015/</link>
-      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielguterding.github.io/talk/topologynovember2015/</guid>
       <description></description>
     </item>
     
