@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From many-body physics to financial markets: sparse modeling for inverse problems</title>
+      <link>https://danielguterding.github.io/talk/impliedvolasep2022/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielguterding.github.io/talk/impliedvolasep2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Principal Component Analysis to Deep Learning with De-Noising Variational Auto-Encoders</title>
       <link>https://danielguterding.github.io/talk/pcafeb2020/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
@@ -190,15 +199,6 @@
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://danielguterding.github.io/publication/010lu2v2o7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topologically non-trivial electronic and magnetic states in doped copper kagome lattices</title>
-      <link>https://danielguterding.github.io/talk/topologyaps2016/</link>
-      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielguterding.github.io/talk/topologyaps2016/</guid>
       <description></description>
     </item>
     
