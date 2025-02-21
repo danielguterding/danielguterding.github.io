@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Daniel Guterding</copyright>
-    <lastBuildDate>Tue, 19 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://danielguterding.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>https://danielguterding.github.io/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://danielguterding.github.io/post/widgets/</guid>
       <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
